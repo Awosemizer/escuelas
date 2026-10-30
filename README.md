@@ -1,4 +1,4 @@
-# Escuelas (sitios publicados)
+# Escuelas (sitio publicado)
 
-Solo webs compiladas, una carpeta por escuela. El código fuente está en un repo privado.
-No edites aquí: se genera con `npm run publicar -- <slug>`.
+Solo la web compilada de la plataforma. El código fuente está en un repo privado.
+No edites aquí: se genera con `npm run publicar`. Las escuelas se agregan desde /escuelas/admin/ (no hace falta publicar).
